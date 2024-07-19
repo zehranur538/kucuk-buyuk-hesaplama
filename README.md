@@ -1,0 +1,1 @@
+# kucuk-buyuk-hesaplama
